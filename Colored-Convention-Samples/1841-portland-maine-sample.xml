@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab> At a meeting of colored citizens favorable to a call for a State Convention, held in
+            the city of Portland, June 11th, 1841, A. N. Freeman in the chair, and J. W. Lewis,
+            Secretary, the following preamble and resolution were unanimously adopted. That if
+            acting conformably to the will of our Creator in securing our own happiness and the
+            happiness of our fellow men, are objects of the highest moment, then we are loudly
+            called upon to cultivate and extend the great principles of Virtue and Truth: and
+            therefore Resolved, That it is expedient to hold a Convention of the people of color in
+            this State the ensuing Fall, for mutual consultation, and the general benefit of our
+            people. The undersigned were appointed a committe to prepare and issue an address to our
+            people.This they submit as A CALL to the Colored citizens of Maine and N. Hampshire.
+            Fellow Citizens; We invite your attention to this Call of a State Convention to be held
+            in the city of Portland on Wednesday, the 6th day of October next. Brethren, we think
+            this meeting ought to be regarded, and hope it will be with peculiar interest by every
+            Colored man and woman among us, and no pains spared to render it interesting and
+            profitable. Our own, our native land demands, our posterity, our enslaved brethren, and
+            our own interests for time and eternity, demand an immediate effort for our moral and
+            intellectual elevation. The consideration and adoption of the means to these great ends
+            we ought no longer to defer. As individuals we must mainly achieve our high purposes,
+            yet it is proper and necessary for us to embody our efforts.—We shall need all the
+            counsel, sympathy, encouragement and strength of union; and by it, with the blessing of
+            God, we may wisely plan, and successfully accomplish the mightiest enterprise. We need a
+            nucleus around which may gather the moral energy of our whole population: and we beg of
+            you a candid and prayerful attention to this matter. Citizens, as you love your country,
+            and would have it a mountain of holiness and a dwelling place of righteousnoss, think of
+            the subject and come. Fathers, would you have the paths of wisdom, honor and profit
+            opened to, and every encouragement given to your beloved offspring to walk in them,
+            consider it well, and come. Mothers, withhold not your influence. The characters of
+            Newton, Wesley, Whitfield and Washington tell of the powers of maternal influence. We
+            may have noble minds among our people.—Exert your influence to furnish occasion and
+            encouragement that they may be ornaments to society and blessings to mankind. Come all.
+            A trodden down and peeled people ought not to rest. Oppression is not heaven inherited
+            by any one. Such a condition is not, cannot be consistent with our duties as moral
+            beings. The largest liberty is essential to humanity. The means for our full
+            emancipation are within our reach; and we cannot longer refuse to use them, and be
+            innocent.</ab>
+         <ab>The subjects which will come up for consideration and action, are many and great. In a
+            "Call" we can of course allude, and briefly too, to but a part of them. Next to our
+            personal relations to our Heavenly Father, the subject of Education should interest us.
+            We cannot measure its importance, but we feel it in our relations to man. And the power
+            it has given to others, it offers to us. Through the goodness of God knowledge is held
+            to our lips and we may drink even to that which is life eternal. It has no prejudices,
+            but whosoever will, may come. We are identified with the poor, suffering, bleeding slave
+            of the South. He is our brother. The claims of kin are added to the claims of humanity
+            upon us to labor directly and heartily with the philanthropist, to undo the heavy
+            burdens and let the oppressed go free. The condition of our enslaved brethren greatly
+            affects our own. We cannot expect the full enjoyment of all our rights while the
+            influence of Slavery is felt in our land. The baneful influence of intemperance has been
+            felt by multitudes among us. Prejudice is, alas! too strong without any cause. None of
+            us, therefore, by intemperance or any vicious indulgence, should contribute in the least
+            to foster it. Temperance is proving a blessing to all who embrace her. Elevating and
+            purifying, her ways are pleasantness, and her paths peace. And in her ways alone is
+            there certainty of final triumph. We would also ask your attention to the important
+            subject of the future occupations of our offspring. The employment naturally affects the
+            disposition and mind as well as the condition. Some corrupt the principles; others
+            contract the mind ; while others leave its powers stagnant. If such employments do not
+            degrade they cannot have an elevating tendency. Our aims require that their minds and
+            hearts be guarded from all evil influences; that their occupations be favorable to the
+            developement and cultivation of the mind; consistant with sound principle; such as
+            generate enlarged views and generous sentiments; and such as will render them as useful
+            as their talents will permit. Such desirable employments there are, and some of them are
+            open to us. It is neccessary that we should have all the statistical information we can
+            procure in regard to our numbers, occupations, and resources, and benevolent and other
+            societies supported among us. And we hope every one will come prepared to give such
+            information. Brethren, Our enterprise is a great one, and will demand the influence and
+            labor of every one. None can be spared. And none we trust will increase our difficulties
+            by their indifference. Our brethren in other States are moving in this cause. Come, let
+            us take counsel together; encourage each others' heart; strengthen each others' hand;
+            and planting, in humble relience upon the Great Deliverer, await the sun and shower of
+            his favor, and the plentiful harvest. Yours truly, for truth and right, A. N. FREEMAN,
+            J. W. LEWIS, A. W. NILES, Com,</ab>
+      </body>
+   </text>
+</TEI>
